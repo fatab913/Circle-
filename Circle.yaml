@@ -1,0 +1,235 @@
+proxies:
+  - name: "Proxy-1"
+    type: socks5
+    server: 115.127.74.226
+    port: 6699
+    username: 3xp
+    password: 3xp
+
+  - name: "Proxy-2"
+    type: socks5
+    server: 115.127.147.40
+    port: 6699
+    username: ECats
+    password: ECats
+
+  - name: "Proxy-3"
+    type: socks5
+    server: 115.127.106.158
+    port: 6699
+    username: ECats
+    password: ECats
+
+  - name: "Proxy-4"
+    type: socks5
+    server: 115.127.148.146
+    port: 6699
+    username: ECats
+    password: ECats
+
+  - name: "Proxy-5"
+    type: socks5
+    server: 115.127.39.18
+    port: 6699
+    username: ECats
+    password: ECats
+
+  - name: "Proxy-6"
+    type: socks5
+    server: 115.127.112.218
+    port: 6699
+    username: 3xp
+    password: 3xp
+
+  - name: "Proxy-7"
+    type: socks5
+    server: 115.127.8.194
+    port: 6699
+    username: ECats
+    password: ECats
+
+  - name: "Proxy-8"
+    type: socks5
+    server: 115.127.107.106
+    port: 6699
+    username: ECats
+    password: ECats
+
+  - name: "Proxy-9"
+    type: socks5
+    server: 202.4.114.56
+    port: 6699
+
+  - name: "Proxy-10"
+    type: socks5
+    server: 203.202.253.139
+    port: 1052
+    username: "1"
+    password: "1"
+
+  - name: "Proxy-11"
+    type: socks5
+    server: 115.127.159.182
+    port: 9966
+
+  - name: "Proxy-12"
+    type: socks5
+    server: 115.127.155.161
+    port: 9966
+
+  - name: "Proxy-13"
+    type: socks5
+    server: 115.127.155.86
+    port: 9966
+
+  - name: "Proxy-14"
+    type: socks5
+    server: 115.127.149.202
+    port: 6699
+    username: 3xp
+    password: 3xp
+
+  - name: "Proxy-15"
+    type: http
+    server: 45.115.112.138
+    port: 7675
+
+  - name: "Proxy-16"
+    type: http
+    server: 121.200.61.221
+    port: 6565
+
+  - name: "Proxy-17"
+    type: http
+    server: 202.40.178.165
+    port: 12761
+
+  - name: "Proxy-18"
+    type: http
+    server: 103.18.204.141
+    port: 32706
+
+  - name: "Proxy-19"
+    type: socks5
+    server: 103.186.238.1
+    port: 9169
+    username: true
+    password: true
+
+  - name: "Proxy-20"
+    type: socks5
+    server: 115.127.135.186
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Proxy-21"
+    type: socks5
+    server: 103.122.254.33
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Proxy-22"
+    type: socks5
+    server: 103.129.200.173
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Proxy-23"
+    type: socks5
+    server: 103.254.167.18
+    port: 1088
+    username: test
+
+  - name: "Proxy-24"
+    type: socks5
+    server: 203.96.226.98
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Proxy-25"
+    type: socks5
+    server: 103.189.158.13
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Proxy-26"
+    type: socks5
+    server: 116.206.91.65
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Proxy-27"
+    type: socks5
+    server: 103.197.48.126
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Proxy-28"
+    type: socks5
+    server: 103.129.200.102
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Proxy-29"
+    type: socks5
+    server: 202.144.201.98
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Proxy-30"
+    type: socks5
+    server: 58.84.33.11
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Proxy-31"
+    type: socks5
+    server: 103.122.252.94
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Proxy-32"
+    type: socks5
+    server: 115.127.142.157
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Proxy-33"
+    type: socks5
+    server: 103.186.238.8
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Proxy-34"
+    type: socks5
+    server: 103.197.48.198
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Proxy-35"
+    type: socks5
+    server: 103.111.225.73
+    port: 1088
+    username: test
+    password: test
+
+  - name: "Proxy-36"
+    type: socks5
+    server: 103.186.238.9
+    port: 1088
+    username: test
+    password: test
